@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.test.datacite.org",
+    "contentApiKey": "14b947c036e5069a20e98ede04"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.test.datacite.org",
+    "contentApiKey": "14b947c036e5069a20e98ede04"
   }
 }
